@@ -14,12 +14,7 @@ Welcome to the Passenger Counter Website repository! This is a web application d
 
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in your preferred web browser.
-3. Use the "+" button to increment the passenger count when someone enters and the "-" button to decrement it when someone exits.
-
-## Preview
-
-![Website Preview](preview.png)
-
+3. Use the "INCREMENT" button to increment the passenger count when someone enters and the "SAVE" button it will save the current count display and show again count from 0
 ## Technologies Used
 
 - HTML
